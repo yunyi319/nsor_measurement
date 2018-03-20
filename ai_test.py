@@ -21,4 +21,3 @@ plt.plot(time,ai_data)
 test_task.wait_until_done()
 test_task.stop()
 test_task.close()
-#haha
